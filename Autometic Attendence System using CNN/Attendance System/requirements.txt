@@ -1,0 +1,9 @@
+opencv-contrib-python
+Pillow
+numpy
+xlwt
+xlrd
+xlutils
+
+# Additional required files or folders:
+# - Ensure the "model/haarcascade_frontalface_default.xml" is available in the project directory.
